@@ -32,6 +32,7 @@ public class OrderPage {
 // Локаторы всплывающего окна "Заказ оформлен".
     private final By SHOW_ORDER_STATUS_BUTTON = By.xpath(".//button[@class='Button_Button__ra12g Button_Middle__1CSJM']"); // Кнопка "Посмотреть статус".
 
+
 //    Заготовка. Тесты Уже работают, но мне бы хотелось вынести выбор цвета и срока аренды в параметризацию;
 //    private final By RENTAL_PERIOD_DAYS_1 = By.xpath(".//div[@class='Dropdown-menu']/div[1]");
 //    private final By RENTAL_PERIOD_DAYS_2 = By.xpath(".//div[@class='Dropdown-menu']/div[2]");
